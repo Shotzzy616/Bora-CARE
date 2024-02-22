@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "905112821007",
+    "firebase_url": "https://esp32-v1-b7211-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32-v1-b7211",
+    "storage_bucket": "esp32-v1-b7211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905112821007:android:6920743c01f751fb0bb27a",
+        "android_client_info": {
+          "package_name": "com.example.appv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905112821007-3u005b94r30ann3eptvrh9cme0ouq0ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZ_ld6VFWSj5SkteRnUwHiWbRVUncapQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905112821007-3u005b94r30ann3eptvrh9cme0ouq0ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905112821007:android:696e34eb5df61daa0bb27a",
+        "android_client_info": {
+          "package_name": "com.example.bora_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905112821007-3u005b94r30ann3eptvrh9cme0ouq0ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZ_ld6VFWSj5SkteRnUwHiWbRVUncapQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905112821007-3u005b94r30ann3eptvrh9cme0ouq0ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
